@@ -17,6 +17,7 @@ The following steps must be completed to ensure the Allfiles function correctly 
     D:\Labfiles\Lab03\...
     ... etc.
     D:\Setupfiles\...
+    D:\Creating an AdventureWorks Database on Azure.docx
     ```
 
 2. On both VMs, once the files are extracted, view the properties of the **D:** drive, and on the **Security** tab, grant the **Everyone** group **Full Control** access to the drive and all its subfolders.

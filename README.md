@@ -1,8 +1,8 @@
-# 20778C: Introduction to Self-Service BI Solutions
+# 20778C: Analyzing Data with Power BI
 
 ## What are we doing?
 
-- To support course 20778 Introduction to Self-Service BI Solutions, we will need to make frequent updates to the course content to keep it current with the services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes to the Power BI platform.
+- To support course 20778 Analyzing Data with Power BI, we will need to make frequent updates to the course content to keep it current with the services used in the course. We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes to the Power BI platform.
 - We hope that this brings a sense of collaboration to the labs like we've never had before - when Power BI changes and you find it first during a live delivery, go ahead and make an enhancement right in the lab source. Help your fellow MCTs.
 
 ## How should I use these files relative to the released MOC files?
@@ -30,4 +30,3 @@ It is strongly recommended that MCTs and Partners access these materials and in 
 GitHub should not be used to discuss technical content in the course, or how to prep. It is specifically to address changes in the labs.
 
 - To address general comments about the course & demos or how to prepare for 20778, please use the MCT forums at https://borntolearn.mslearn.net/mct/general/f/225. This is the MCT Readiness forum for discussions, news, etc. to help you prepare to teach courses and let you collaborate with other instructors.
-
